@@ -2,11 +2,11 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
-    url: blog
+  - title: publications
+    url: https://scholar.google.com/citations?user=tg57FhcAAAAJ&hl=en
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: collaborators
+    url: blog
 
 project_entries:
   - title: Project 1
@@ -54,17 +54,17 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: rachana battje
+    url: 
 
-  - title: twitter
+  - title: Linked In
     url: https://twitter.com/abhinav
 
-  - title: github
-    url: https://github.com/abhinavs
+  - title: Email
+    url: ganeshhegde05@gmail.com
 
-  - title: feed
-    url: feed.xml
+  #- title: feed
+  #  url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list
